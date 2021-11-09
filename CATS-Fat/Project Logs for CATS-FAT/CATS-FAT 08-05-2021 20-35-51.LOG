@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IO1 Pin=U1-50
+Removed Pin From Net: NetName=IO2 Pin=U1-51
+Removed Pin From Net: NetName=IO3 Pin=U1-59
+Change Component Description : Designator=U9_U_CATS-FAT-IMU1 Old Description=World’s First Wide-Range 6-Axis MotionTracking Device for High Speed Applications New Description=World’s First Wide-Range 6-Axis MotionTracking Device for High Speed Applications
+Change Component Description : Designator=U9_U_CATS-FAT-IMU2 Old Description=World’s First Wide-Range 6-Axis MotionTracking Device for High Speed Applications New Description=World’s First Wide-Range 6-Axis MotionTracking Device for High Speed Applications
+Added Pin To Net: NetName=IO2 Pin=U1-50
+Added Pin To Net: NetName=IO3 Pin=U1-51
+Added Pin To Net: NetName=IO1 Pin=U1-59
+Added Member To Class: ClassName=U_CATS-FAT-MCU Member=Component C13 100nF
