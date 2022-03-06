@@ -1,4 +1,0 @@
-Record=DiagramHierarchy|SourceDocument=CATS.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\..\..\..\ARIS\CATS\Software\cats\hardware\CATS-FAT\CATS-FAT.PrjPcb
-Record=SubProject|SourceDocument=CATS.MbsDoc|ProjectPath=..\..\..\..\ARIS\CATS\Software\cats\hardware\CATS-FAT\CATS-FAT.PrjPcb
-Record=DiagramHierarchy|SourceDocument=CATS.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\CATS-Telemetry\CATS-Telemetry.PrjPcb
-Record=SubProject|SourceDocument=CATS.MbsDoc|ProjectPath=..\CATS-Telemetry\CATS-Telemetry.PrjPcb
