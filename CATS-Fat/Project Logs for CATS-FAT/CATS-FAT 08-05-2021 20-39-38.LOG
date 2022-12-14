@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=CS_BARO2 Pin=U1-37
-Removed Pin From Net: NetName=CS_BARO1 Pin=U1-38
-Added Pin To Net: NetName=CS_BARO1 Pin=U1-37
-Added Pin To Net: NetName=CS_BARO2 Pin=U1-38

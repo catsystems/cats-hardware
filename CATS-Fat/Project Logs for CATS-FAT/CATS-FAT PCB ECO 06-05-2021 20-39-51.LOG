@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=VBAT Pin=Q7_CH1-1
-Removed Pin From Net: NetName=VBAT Pin=Q7_CH2-1
-Removed Pin From Net: NetName=VBAT Pin=Q7_CH3-1
-Change Component Description : Designator=U9_U_CATS-FAT-IMU1 Old Description=World’s First Wide-Range 6-Axis MotionTracking Device for High Speed Applications New Description=World’s First Wide-Range 6-Axis MotionTracking Device for High Speed Applications
-Change Component Description : Designator=U9_U_CATS-FAT-IMU2 Old Description=World’s First Wide-Range 6-Axis MotionTracking Device for High Speed Applications New Description=World’s First Wide-Range 6-Axis MotionTracking Device for High Speed Applications
-Added Pin To Net: NetName=5V Pin=Q7_CH1-1
-Added Pin To Net: NetName=5V Pin=Q7_CH2-1
-Added Pin To Net: NetName=5V Pin=Q7_CH3-1
