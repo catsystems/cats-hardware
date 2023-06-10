@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CATS-Vega-Nutzen.PcbDoc   19/12/2022  23:13:23
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CATS-Vega-Nutzen-RoundHoles.TXT
+ASCII SlotHoles File : CATS-Vega-Nutzen-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             1560      PTH        4260.55mm (167.74inch)
+T2      0.35mm (14mil)                                            Round             250       PTH        1452.10mm (57.17inch)
+T3      0.6mm (24mil)                                             Slot              20        PTH        501.34mm (19.74inch)
+T4      0.7mm (28mil)                                             Round             5         PTH        152.00mm (5.98inch)
+T5      0.9mm (35mil)                                             Round             30        PTH        215.50mm (8.48inch)
+T6      0.95mm (37mil)                                            Round             5         PTH        152.00mm (5.98inch)
+T7      0.991mm (39mil)                                           Round             30        PTH        388.75mm (15.31inch)
+T8      1.2mm (47mil)                                             Round             80        PTH        822.86mm (32.40inch)
+T9      1.5mm (59mil)                                             Round             5         PTH        152.00mm (5.98inch)
+T10     1.6mm (63mil)                                             Round             20        PTH        207.88mm (8.18inch)
+T11     3.2mm (126mil)                                            Round             15        PTH        528.80mm (20.82inch)
+T12     0.65mm (26mil)                                            Round             10        NPTH       180.90mm (7.12inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              2030
+
+Total Processing Time (hh:mm:ss) : 00:00:01
